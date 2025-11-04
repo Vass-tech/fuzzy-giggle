@@ -1,0 +1,17 @@
+player_name: Volcan01
+language: es_ES
+setlang: false
+logout_location:
+  world: world
+  x: 23.5
+  y: 63.0
+  z: -276.5
+  pitch: -5.0999985
+  yaw: -25.95002
+last_location:
+  world: world
+  x: 23.5
+  y: 63.0
+  z: -276.5
+  pitch: 0.0
+  yaw: -187.94717

@@ -1,0 +1,17 @@
+player_name: Steking_17
+language: es_MX
+setlang: false
+last_location:
+  world: world
+  x: 40.5
+  y: 65.0
+  z: -237.5
+  pitch: 0.0
+  yaw: -354.15228
+logout_location:
+  world: world
+  x: 41.71548393163209
+  y: 65.0
+  z: -238.47098559392356
+  pitch: 12.899961
+  yaw: -343.0484

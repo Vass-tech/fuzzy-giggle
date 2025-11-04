@@ -1,0 +1,17 @@
+player_name: gabriel123
+language: es_ES
+setlang: false
+logout_location:
+  world: world
+  x: 23.300000011920933
+  y: 23.0
+  z: -208.69999998807907
+  pitch: -46.049973
+  yaw: 24.742432
+last_location:
+  world: world
+  x: 17.69999998807907
+  y: 41.0
+  z: -232.30000001192093
+  pitch: 71.100006
+  yaw: -295.64932
